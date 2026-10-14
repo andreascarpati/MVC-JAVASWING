@@ -1,4 +1,4 @@
-Progetto mvc javaswing
+Progetto mvc-observable javaswing
 
 programma
 
